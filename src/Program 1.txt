@@ -1,0 +1,4 @@
+print Enter_file_name
+assign a input
+assign b readFile a
+print b
